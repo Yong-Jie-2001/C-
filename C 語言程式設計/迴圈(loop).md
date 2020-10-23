@@ -45,7 +45,7 @@ int main(void)
 	return 0;
 }
 ```
-# while loop
+## while loop
 ```
 #include <stdio.h>
 
@@ -69,7 +69,7 @@ int main(void)
 }
 ```
 
-# Do ... While  Loop
+## Do ... While  Loop
 ```
 #include <stdio.h>
 
@@ -93,7 +93,7 @@ int main(void)
 }
 
 ```
-# 無窮迴圈
+## 無窮迴圈
 ```
 #include <stdio.h>
  
