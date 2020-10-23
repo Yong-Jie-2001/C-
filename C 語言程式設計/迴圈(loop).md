@@ -4,7 +4,7 @@ for
 while
 do .. while
 ```
-## for loop
+## For loop
 ```
 
 #include <stdio.h>
@@ -69,7 +69,7 @@ int main(void)
 }
 ```
 
-# do ... while  loop
+# Do ... While  Loop
 ```
 #include <stdio.h>
 
