@@ -6,7 +6,7 @@
 int main ()
 {
 	int a,b;
-	int r1,r2,r3,r4,r5,r6;
+	double r1,r2,r3,r4,r5,r6;
 	
 	printf("Input the first variable : ");
 	scanf("%d",&a);
